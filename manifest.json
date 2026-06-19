@@ -1,6 +1,6 @@
 {
   "name": "Vecihi Autopilot",
-  "version": "5385580",
+  "version": "14b6635",
   "new_install_prompt_erase": true,
   "builds": [
     {
@@ -14,7 +14,7 @@
     }
   ],
   "build_info": {
-    "date": "2026-06-17",
-    "commit": "5385580"
+    "date": "2026-06-19",
+    "commit": "14b6635"
   }
 }
