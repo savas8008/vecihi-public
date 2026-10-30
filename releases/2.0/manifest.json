@@ -1,0 +1,29 @@
+{
+  "name": "Vecihi Autopilot",
+  "version": "2.0",
+  "new_install_prompt_erase": true,
+  "builds": [
+    {
+      "chipFamily": "ESP32",
+      "parts": [
+        {
+          "path": "vecihi_merged.bin",
+          "offset": 0
+        }
+      ]
+    },
+    {
+      "chipFamily": "ESP32-S3",
+      "parts": [
+        {
+          "path": "vecihi_merged_s3.bin",
+          "offset": 0
+        }
+      ]
+    }
+  ],
+  "build_info": {
+    "date": "2026-10-30",
+    "commit": "e3d4fe2"
+  }
+}
